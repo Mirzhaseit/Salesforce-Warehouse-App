@@ -61,6 +61,9 @@ Follow these steps to create a Warehouse Application in Salesforce.com:
 
 - The new app will be created and displayed in the App Manager.
 
+##output
+https://ibb.co/xS4kvHcJ
+
 ## RESULT
 
 Thus, the Warehouse Application in Salesforce was created and executed successfully.
