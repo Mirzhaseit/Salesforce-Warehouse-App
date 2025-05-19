@@ -63,7 +63,7 @@ Follow these steps to create a Warehouse Application in Salesforce.com:
 
 ##output
 
-https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22IMG_20250515_234251.jpg%22%2C%22type%22%3A%22image%2Fjpeg%22%2C%22signedurl_expire%22%3A%222028-05-14T18%3A22%3A09.764Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2F5b07e60d29f04d28%2FIMG_20250515_234251.jpg%3FExpires%3D1841941330%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DKNYOl0qNj6wrdhpZcg7GqCAFIJbutG3HyzxNKJ-xx1rs9oGodEi7JG7LtIROIjZ3EUwHjkvB9V5aFoF7jdQs-w1f60wjucpPn36VCKfHXYHACps8w4fU6v5dAVUVY4A6l~aT3yTbrjKGFnIyqrHodSkzn5XsQjOKnBDz4yqdJEkM8nAHQlsSGIlVUks1Pkk8darnln2ByMzgWzVboNAN-HMQ1fkHv2W9DYzdywVdiMQQA9lQugAmi2Sa5WqRdluqsKtFGc1hS~mem~h3bYPUXxecgB0Svb~-V9NCJ6Dq4NkhkDYCG3NyTVoC5sGxDjhEBv8tm1EUDq6yp5Tu5OcfAw__%22%7D
+
 
 ## RESULT
 
